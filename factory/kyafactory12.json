@@ -1,0 +1,15 @@
+{
+	"name": "kyafactory12",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f7841e7-100f-49b2-af4f-526a8b1af7c0",
+		"tenantId": "12c16d6d-68e0-45f3-9d6c-ccf824e3330f"
+	}
+}
